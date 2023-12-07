@@ -12,10 +12,12 @@ This Python script provides a simple yet effective File Encryptor/Decryptor appl
    ```bash
    git clone https://github.com/your-username/file-encryptor-decryptor.git
    cd file-encryptor-decryptor
-## ** Install Dependencies: **
+
+## Install Dependencies:
    ```bash
    pip install -r requirements.txt
-## ** Run the Application: **
+
+## Run the Application:
    ```bash
    python file_encryptor_decryptor.py
    
